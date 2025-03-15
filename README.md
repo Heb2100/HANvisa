@@ -11,7 +11,7 @@
              alt="Image 2" style="width: 35%;">
         <img src="https://github.com/user-attachments/assets/895b2dac-f249-48e2-bb28-fba9b4788f85" 
              alt="Image 3" style="width: 35%;">
-        <img src="[Uploading image.png…]" 
+        <img src="https://github.com/user-attachments/assets/95262dd7-a3c5-41db-af98-ac8b1c1d1308"
              alt="Image 4" style="width: 35%;">
     </div>
 </div>
